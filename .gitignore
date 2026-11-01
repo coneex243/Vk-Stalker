@@ -1,0 +1,23 @@
+# Secrets
+.env
+
+# Generated reports (sensitive personal data)
+reports/
+*.html
+
+# Logs
+*.log
+nohup.out
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
